@@ -20,7 +20,7 @@ This model has one additional feature making them 239, with 4 hidden layers. Act
 Model 4 has same features as model 3, 239, and 4 hidden layers. However, activations used were in a different order.
 
 
-### accuarcy score
+### Accuracy Score
 
 TRAIN
 Model|Accuracy|Loss|Layers
